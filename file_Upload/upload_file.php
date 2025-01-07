@@ -32,3 +32,6 @@ if (isset($_FILES['upload_file'])) {
     }
 }
 ?>
+
+<!-- //method overriding encapsulation and form handlign  -->
+ 
